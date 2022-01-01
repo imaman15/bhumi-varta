@@ -1,0 +1,5 @@
+async biasanya digunakan pada saat melakukan operasi-operasi yang tidak harus menunggu proses lainnya selesai.
+dalam react js dengan fitur yang hadir pada es7 biasanya async digunakan bersamaan dengan await.
+async -> mengubah function menjadi asynchronous
+await -> menunda eksekusi hingga proses aync selesai
+async await ini biasanya di gunakan ketika mengambil data dari api.

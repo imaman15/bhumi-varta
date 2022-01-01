@@ -1,0 +1,7 @@
+secara umum nya javascript diproses dalam baris perbaris, artinya setiap baris kode
+tidak akan dieksekusi sebelum baris kode sebelumnya selesai diproses.
+hal di atas merupakan proses syncronous.
+dalam proses asynchronous kode sebenarnya sudah di porses, hanya saja sebatas penjadwalan
+untuk dieksekusi pada tahap berikutnya, jadi kode async ini tidak akan 
+langsung dieksekusi, tapi di skip dan akan melakukan eksekusi baris perintah berikutnya.
+
