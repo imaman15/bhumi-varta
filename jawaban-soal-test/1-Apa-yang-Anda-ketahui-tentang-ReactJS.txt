@@ -1,0 +1,7 @@
+React JS merupakan sebuah pustak atau library javascript yang dapat kita 
+gunakan atau kembangkan sesuai kebutuhan kita tanpa harus membayar izin atau 
+lisensi kepada pembuat library nya atau biasa di sebut open source. React Js
+ini biasanya digunakan untuk para frontend developer yang dimana libary ini
+dapat membangun User Interfaces yang interaktif, sehingga dapat dengan mudah
+membuat desain yang simple sesuai kebutuhan developer. React JS ini dibuat 
+oleh Facebook yang berganti nama menjadi Meta Platforms.
