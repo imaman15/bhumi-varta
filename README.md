@@ -1,3 +1,11 @@
+## INFORMASI
+php artisan migrate --seed
+
+## JAWABAN SOAL TEXT
+- **[Soal No 1](https://github.com/imaman15/bhumi-varta/blob/main/jawaban-soal-test/1-Apa-yang-Anda-ketahui-tentang-ReactJS.txt)**
+- **[Soal No 2](https://github.com/imaman15/bhumi-varta/blob/main/jawaban-soal-test/2-Apakah-yang-dimaksud-dengan-Asynchronous.txt)**
+- **[Soal No 3](https://github.com/imaman15/bhumi-varta/blob/main/jawaban-soal-test/3-Bagaimana-menerapkan-Asynchronous-pada-ReactJs.txt)**
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
